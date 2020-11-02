@@ -12,11 +12,8 @@ REST + Sockets-based chat service built on top of NodeJS/ExpressJS using MongoDB
 1. Run the following command to start the backend server: ```npm start```
 2. Access the backend server on http://localhost:3000
 
-## 2. Run Tests
-```
-npm test
-```
-## 3. Endpoint Documentation
+
+## 2. Endpoint Documentation
 ### <a name='register'></a> registeration
 
 <p>This endpoint takes a request body and saves it to the database</p>
