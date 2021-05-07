@@ -14,7 +14,7 @@ REST + Sockets-based chat service built on top of NodeJS/ExpressJS using MongoDB
 
 
 ## 2. Endpoint Documentation
-### <a name='register'></a> registeration
+### <a name='register'></a> registration
 
 <p>This endpoint takes a request body and saves it to the database</p>
 
